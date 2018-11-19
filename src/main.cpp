@@ -1,7 +1,7 @@
 /* ****************************************************************
- * @author: <your name here>
- * @app name: <your application name here>
- * @app desc: <describe the purpose of your application here>
+ * @author: <MARK GERONE F. GROSPE>
+ * @app name: <Hello World>
+ * @app desc: <Display Message>
  * @history:
  *  - <yyyy/mm/dd> | <name>
  *      -- <description>
@@ -33,8 +33,8 @@ int main() {
     // Place your code logic after this comment line
     // ***********************************************************
 
-    cout << "Hello World!";
-
+    cout << "Hello" << endl;
+    cout << "World!" << endl;
     // ********************** DO NOT CHANGE **********************
     // Print a new line and ask user for any key before exiting
     // ***********************************************************
